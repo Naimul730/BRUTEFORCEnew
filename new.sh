@@ -1,4 +1,5 @@
-#usr/bin/bash
+#usr/bin/bash NAIMUL
+
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
